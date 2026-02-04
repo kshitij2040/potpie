@@ -3,7 +3,6 @@
     <img src="./assets/potpie-newlogo.svg" width="318px" alt="Potpie AI logo" />
   </a>
 </p>
-
 <br/>
 <p align="center">
 <a href="https://trendshift.io/repositories/12918" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12918" alt="potpie-ai%2Fpotpie | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
